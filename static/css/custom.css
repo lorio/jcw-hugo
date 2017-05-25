@@ -1,0 +1,4 @@
+section.main .content .markdown figure img[alt="book cover"] {
+  width: 300px;
+}
+section.main .content .markdown .indent {text-indent: 3em;font-size: 1.8em;}

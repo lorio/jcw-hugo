@@ -1,0 +1,32 @@
+baseurl = "http://jeffreycypherswright.com/"
+theme = "cocoa-eh"
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Lori Ortiz"
+title = "Jeffrey Cyphers Wright"
+disqusshortname = ""
+pluralizelisttitles = false
+
+[permalinks]
+blog = "posts/:slug/"
+
+[params]
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "Art and Poetry by Jeffrey Cyphers Wright"
+copyright = "© 2017 Jeffrey Cyphers Wright"
+logofile = "images/logo.png"
+faviconfile = "favicon.ico"
+highlightjs = false
+progressively = true
+lang = "en"
+wikipedia = "Jeffrey_Cyphers_Wright"
+email = "livemagnyc@gmail.com"
+facebook = "livemag.org"
+twitter = "livemagnyc"
+social_banner = "images/nola.jpg"
+posts_navigation = true
