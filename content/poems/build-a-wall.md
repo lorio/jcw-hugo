@@ -13,5 +13,5 @@ Let's build a wall using [[...]](http://www.poetsreadingthenews.com/2016/09/lets
 
 Jeff read the poem on the last day of the 2nd New Orleans Poetry Festival. The final open reading was held outdoors on a sunny afternoon at the famous Maple Leaf Bar.
 
-Poem text and collage by JCW can be found on [Urban Graffiti](http://www.poetsreadingthenews.com/2016/09/lets-build-a-wall/)
+Poem text and collage by JCW can be found on [Poets Reading the News](http://www.poetsreadingthenews.com/2016/09/lets-build-a-wall/)
 

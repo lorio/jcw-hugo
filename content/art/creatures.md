@@ -7,13 +7,17 @@ title = "Creatures"
 
 +++
 
-<figure> <img src="/images/creatures/ant.jpg" alt="collage"> <figcaption> <em>Raoul</em> 2013<br> mixed media 8 x 8 in.</figcaption>
+{{< img src="/images/creatures/ant.jpg" class="collage" >}}
+<p> <em>Raoul</em> 2013<br> mixed media 8 x 8 in.</p>
 
-<figure> <img src="/images/creatures/lucky.jpg" alt="collage"> <figcaption> <em>Lucky</em> 2013<br> mixed media 8 x 8 in.</figcaption>
+{{< img src="/images/creatures/lucky.jpg" class="collage" >}}
+ <em>Lucky</em> 2013<br> mixed media 8 x 8 in.</p>
 
-<figure> <img src="/images/creatures/win.jpg" alt="collage"> <figcaption> <em>Windsor</em> 2013<br> mixed media 8 x 8 in.</figcaption>
+{{< img src="/images/creatures/win.jpg" class="collage" >}}
+<p> <em>Windsor</em> 2013<br> mixed media 8 x 8 in.</p>
 
-<figure> <img src="/images/creatures/dogs.jpg" alt="collage"> <figcaption> <em>Dogs</em> 2013<br> mixed media 4 x 6 in.</figcaption>
+{{< img src="/images/creatures/dogs.jpg" class="collage" >}}
+<p> <em>Dogs</em> 2013<br> mixed media 4 x 6 in.</p>
 
 Wright taught science in an Upper Manhattan public school. His lessons were both educational and entertaining, especially entomology. The lab creatures serve double duty as new inspiration for his collage work.
 

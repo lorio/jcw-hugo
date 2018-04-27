@@ -7,17 +7,17 @@ title = "Party Everywhere"
 
 +++
 
-<figure>
-<img src="/images/books/party.jpg" alt="book cover"> <figcaption><em>Party Everywhere</em> 2014<br>Xanadu Press<br>ISBN:0-9760793-9-9</figcaption> 
-</figure>   
-<p></p>
+
+{{< img src="/images/books/party.jpg" class="book"  >}}
+
+<p><em>Party Everywhere</em> 2014<br>Xanadu Press<br>ISBN:0-9760793-9-9</p>
 
 >This poem is a manifesto for the nascient 'eventworks' movement that stresses collaboration, community, and cause-based art. Welcome to the new world ardor.
 --Michael Andre
 
 A poet's guide to social engagement
 
->>Write your own "ticket" 
+>>Write your own "ticket"
 
 >>Sing here
 
@@ -31,7 +31,6 @@ Wright created this book-length poem, photo-collage, photo-assemblage, thanks to
 >>So the party never ends  
 It's a never-ending series  
 of infinite  
-temporary works ... 
+temporary works ...
 
-Now in it's second printing, _Party Everywhere_ is available at [Printed Matter](https://www.printedmatter.org/)
-
+Now in its second printing, _Party Everywhere_ is available at [Printed Matter](https://www.printedmatter.org/catalog/39466/)

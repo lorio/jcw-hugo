@@ -15,7 +15,7 @@ title = "JCW URLs"
 
 + [The Key Ceremony](http://communitygardensbrand.com) Community Garden Event, associated art and performance.
 
-+ [Clubhouse on East 13th](https://vimeo.com/72102229) Don Yorty's video of a preview reading, at Sidewalk Cafe, of Jeff's play _Clubhouse on East 13th_ featuring Wright, Hillary Keel, Debra Jenks, Surge, Jane LeCroy, Anders Goldfarb, and 
++ [Clubhouse on East 13th](https://vimeo.com/72102229) Don Yorty's video of a preview reading, at Sidewalk Cafe, of Jeff's play _Clubhouse on East 13th_ featuring Wright, Hillary Keel, Debra Jenks, Surge, Jane LeCroy, Anders Goldfarb, and Debra Drexler
 
 + [Art Nexus](http://ow.ly/iVUbm) Jeff's reviews of Latin American art
 
