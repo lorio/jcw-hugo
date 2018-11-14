@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://jeffreycypherswright.com/posts/events-2019/</loc>
+    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jeffreycypherswright.com/posts/events-2018/</loc>
+    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jeffreycypherswright.com/books/blue-lyre/</loc>
     <lastmod>2018-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -10,11 +20,6 @@
   <url>
     <loc>http://jeffreycypherswright.com/posts/nola-festival-18/</loc>
     <lastmod>2018-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jeffreycypherswright.com/posts/events-2018/</loc>
-    <lastmod>2018-01-01T13:32:50-04:00</lastmod>
   </url>
   
   <url>
@@ -35,11 +40,6 @@
   <url>
     <loc>http://jeffreycypherswright.com/posts/jcw-on-the-interwebs/</loc>
     <lastmod>2017-05-10T14:00:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jeffreycypherswright.com/posts/events/</loc>
-    <lastmod>2017-05-10T13:32:50-04:00</lastmod>
   </url>
   
   <url>
@@ -172,7 +172,7 @@
   
   <url>
     <loc>http://jeffreycypherswright.com/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -242,13 +242,13 @@
   
   <url>
     <loc>http://jeffreycypherswright.com/posts/</loc>
-    <lastmod>2018-04-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jeffreycypherswright.com/tags/readings-poetry-nyc-jeffrey-cyphers-wright/</loc>
-    <lastmod>2018-01-01T13:32:50-04:00</lastmod>
+    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

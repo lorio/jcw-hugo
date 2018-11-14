@@ -14,7 +14,7 @@ This hybrid text "verse-journal" humorously and lovingly keeps track of Bohemian
 
 Dennis Cooper wrote in _Beyond Baroque_:
 
->Wright's talent appears bright... as well as attractive in the categories of filing, inspiration and temperament.
+>Wright's talent appears bright... as well as attractive in the categories of feeling, inspiration and temperament.
 
 Rare (only 6 remaining from the edition).  
 Use the email link below for inquiries.

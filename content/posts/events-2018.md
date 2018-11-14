@@ -1,5 +1,5 @@
 +++
-date = "2018-01-01T13:32:50-04:00"
+date = "2018-11-05"
 description = "News of upcoming events featuring or organized by Jeffrey Cyphers Wright"
 meta_img = "/images/boy.gif"
 tags = ["readings, poetry, nyc, Jeffrey Cyphers Wright"]
@@ -7,8 +7,26 @@ title = "2018 Events"
 
 +++
 
-### April 28
-Jeff reading and open 3:00 at Parkside Plaza, 220 Cadman Plz Bklyn.
+### December 15, 6pm
+Jeff is guest poet in an evening of song and poetry at Cornelia Street Cafe.
+
+### December 3, 7:30 pm
+Freedom Writers at [La MaMa](http://lamama.org/freedom_writers/), the LiVE MAG! #15 launch event, features a super mix of literary legends and must-see up and comers MC'd by JCW with host William Electric Black. Take home the new issue, free with admission. 
+
+### October 2, 7pm
+LiVE MAG! presents issue #15, Preview of a Reveiew at KGB Lit Bar. Featured readers: Amy Barone, Anselm Berrigan, Lee Ann Brown, David Mills, Sergio Satélite
+
+### Friday September 21, 6pm
+Jeff is Special Guest poet for An Evening of Song Poetry and Music with Barry Wallenstein and musicians at Cornelia Street Cafe. RSVP suggested 212-989-9319.
+
+### Sunday September 16, 4:30
+Jeff reading with Julia Knobloch and Nick Schiff at the __Zinc Bar__, 32 W.3 St. Free.
+
+### Wednesday, June 13
+Book Release Party & Reading at Jefferson Market Library, 425 6th Ave., NYC. [3 Poets, 3 Books](https://www.facebook.com/events/1710889008958457/). Amy Barone with *We Became Summer* from New York Quarterly Books; Francine Witte with *Cafe Crazy* from Kelsay Books; and Jeffrey Cyphers Wright with *Blue Lyre* from Dos Madres Press. Book signing and refreshments to follow reading. 
+
+### Saturday, May 19
+[Myopic Bookstore Poetry Series](http://www.myopicbookstore.com/poetry-series/), Chicago, IL
 
 ### April 20-22
 NOLA Poetry Festival! Visit the LiVE MAG! table, Jeff reads Sunday at 4 and at the Tree of Life on Friday.
