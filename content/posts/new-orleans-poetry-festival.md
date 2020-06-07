@@ -6,5 +6,5 @@ description = "Jeffrey Cyphers Wright in the 2nd New Orleans Poetry Festival"
 meta_img = "./images/nola.jpg"
 author = "Jeffrey Cyphers Wright"
 +++
-{{< figure src="/images/nola.jpg" caption="Jeff reading at Cafe Istanbul. Photo by Alison Roos" >}}
+{{< figure src="/images/nola.jpg" caption="Jeff reading at Cafe Istanbul. Photo by Alison Ross" >}}
 

@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://jeffreycypherswright.com/art/dopplegangers/</loc>
+    <lastmod>2020-06-06T14:09:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jeffreycypherswright.com/posts/events-2020/</loc>
+    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jeffreycypherswright.com/posts/jcw-on-the-interwebs/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jeffreycypherswright.com/books/fake-lies/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
   </url>
@@ -10,16 +25,6 @@
   <url>
     <loc>http://jeffreycypherswright.com/posts/later-than-you-think/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jeffreycypherswright.com/posts/events-2019/</loc>
-    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jeffreycypherswright.com/posts/events-2018/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,6 +38,11 @@
   </url>
   
   <url>
+    <loc>http://jeffreycypherswright.com/books/radio-poems/</loc>
+    <lastmod>2018-01-10T08:40:32-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jeffreycypherswright.com/art/creatures-ii/</loc>
     <lastmod>2017-10-01T14:09:02-04:00</lastmod>
   </url>
@@ -40,16 +50,6 @@
   <url>
     <loc>http://jeffreycypherswright.com/poems/asbury-park-haiku/</loc>
     <lastmod>2017-09-17T13:00:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jeffreycypherswright.com/books/radio-poems/</loc>
-    <lastmod>2017-05-26T08:40:32-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jeffreycypherswright.com/posts/jcw-on-the-interwebs/</loc>
-    <lastmod>2017-05-10T14:00:24-04:00</lastmod>
   </url>
   
   <url>
@@ -129,13 +129,13 @@
   
   <url>
     <loc>http://jeffreycypherswright.com/tags/</loc>
-    <lastmod>2017-05-10T14:00:24-04:00</lastmod>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jeffreycypherswright.com/art/</loc>
-    <lastmod>2017-10-01T14:09:02-04:00</lastmod>
+    <lastmod>2020-06-06T14:09:02-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -159,12 +159,18 @@
   
   <url>
     <loc>http://jeffreycypherswright.com/tags/books-poetry/</loc>
-    <lastmod>2017-05-26T08:40:32-04:00</lastmod>
+    <lastmod>2018-01-10T08:40:32-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jeffreycypherswright.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jeffreycypherswright.com/tags/collage-art-jeffrey-cyphers-wright/</loc>
+    <lastmod>2020-06-06T14:09:02-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -182,7 +188,7 @@
   
   <url>
     <loc>http://jeffreycypherswright.com/</loc>
-    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-06T14:09:02-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -252,19 +258,19 @@
   
   <url>
     <loc>http://jeffreycypherswright.com/posts/</loc>
-    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jeffreycypherswright.com/tags/readings-poetry-nyc-jeffrey-cyphers-wright/</loc>
-    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jeffreycypherswright.com/tags/</loc>
-    <lastmod>2017-05-10T14:00:24-04:00</lastmod>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

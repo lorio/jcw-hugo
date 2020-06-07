@@ -22,12 +22,14 @@ Jeffrey Cyphers Wright is a leading voice of New Romanticism in the American Und
 >I emptied two magazines of my .380 PPK at Jeffrey C. Wright’s bulletproof poems, and they didn’t make a dent. A poet true to his word and the Word, Jeff takes himself as seriously as a threatened world of
 fragile humans will allow. He is lyrical, attentive, and gracious. He is also civilized: Sextus Propertius in NY.  
 
-—Andrei Codrescu, author of The Art Of Forgetting: New Poems
+—Andrei Codrescu, author of The *Art Of Forgetting: New Poems*
 
 >I’ve been a fan of Jeffrey Cyphers Wright’s poetry since the nineteen eighties when I first heard him read. He writes explosive poetry that
 always has a political edge. His new book, *Blue Lyre*, is a masterpiece and a must read for all his fans out there. Wright is a true original who
 has perfected his voice. His poetry is not only a record of our times but landmarks for future generations. Yes, he is that good.  
 
 —Hal Sirowitz, former poet laureate of Queens, New York
+
+Read Larissa Shmailo's review of _Blue Lyre_ in [North of Oxford](https://northofoxford.wordpress.com/2019/03/01/blue-lyre-by-jeffrey-cyphers-wright/)
 
 Buy *Blue Lyre* from [Dos Madres Press](https://www.dosmadres.com/shop/blue-lyre-by-jeffrey-cyphers-wright/).

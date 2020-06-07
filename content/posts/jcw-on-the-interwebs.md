@@ -1,11 +1,21 @@
 +++
-date = "2017-05-10T14:00:24-04:00"
+date = "2020-04-28"
 description = "Links to art and poetry by Jeffrey Cyphers Wright available on the internet"
 meta_img = "/images/image.jpg"
 tags = [""]
 title = "JCW URLs"
 
 +++
+
++ [Sensitive Skin Beer Virus Reading #5](https://www.youtube.com/watch?v=OTtJpngOUuQ&feature=youtu.be) Gerald Nicosia Emily Carter Jeff Wright Bob Holman. April 23, 2020 YouTube reading. Jeff reads from four of his books and new poems at 21:05.
+
++ [Sensitive Skin](https://sensitiveskinmagazine.com/how-to-live-with-yourself-jeffrey-cyphers-wright/) "How to Live With Yourself"
+
++ [AM|FM Magazine](https://www.amfm-magazine.tv/spotlight-poet-publisher-jeffrey-cyphers-wright/) November 2018 Spotlight: John Wisniewki interviews JCW
+
++ [Later Than You Think](https://www.facebook.com/lichtundfire/videos/313627249440217/) Jeff reading at Lichtundfire Gallery, September 2018
+
++ [Nostrovia!](https://nostroviawriting.wordpress.com/2017/01/07/two-poems-art-jeffrey-cyphers-wright/) 2017 feature: interview, art, and two poems
 
 + [Live Mag](http://livemag.org) Jeff's 14 issue, 40 page art and poetry mag
 

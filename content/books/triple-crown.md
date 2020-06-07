@@ -11,9 +11,8 @@ title = "Triple Crown"
 
 From the _Urban Graffiti_ Review:
 
->Jeff Wright's lyrical liberties propel the traditional sonnet on a worldwide dash. Every poem is "Made in..." somewhere --beginning with China. In the second poem, "Made in Hong Kong," the initial entreaty beckons with musical sophistication: anagrammatic words coupled in a double-beat rhyme scheme.[[MORE]](http://urbgraffiti.com/review/triple-crown-sonnets-by-jeffrey-cyphers-wright-review-by-ilka-scobie/)
-
->>Ever the provocateur, Wright infuses a sly humor in his startlingly beautiful and offbeat imagery. --Ilka Scobie 
+>Jeff Wright's lyrical liberties propel the traditional sonnet on a worldwide dash. Every poem is "Made in..." somewhere --beginning with China. In the second poem, "Made in Hong Kong," the initial entreaty beckons with musical sophistication: anagrammatic words coupled in a double-beat rhyme scheme.
+...Ever the provocateur, Wright infuses a sly humor in his startlingly beautiful and offbeat imagery. --Ilka Scobie 
 
 Order from the publisher [Spuyten Duyvil](http://www.spuytenduyvil.net/triple-crown.html)   
 Or [Amazon](https://www.amazon.com/Triple-Crown-Three-Crowns-Sonnets/dp/1881471233)
