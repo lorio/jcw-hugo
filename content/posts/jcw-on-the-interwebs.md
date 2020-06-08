@@ -7,6 +7,8 @@ title = "JCW URLs"
 
 +++
 
++ [Posit Journal](https://positjournal.com/2019/09/23/jeffrey-cyphers-wright/) Poems: Laughing Matter, Temple of Jupiter, The Missing Linx, and Troubadour’s Notebook.
+
 + [Sensitive Skin Beer Virus Reading #5](https://www.youtube.com/watch?v=OTtJpngOUuQ&feature=youtu.be) Gerald Nicosia Emily Carter Jeff Wright Bob Holman. April 23, 2020 YouTube reading. Jeff reads from four of his books and new poems at 21:05.
 
 + [Sensitive Skin](https://sensitiveskinmagazine.com/how-to-live-with-yourself-jeffrey-cyphers-wright/) "How to Live With Yourself"

@@ -30,6 +30,12 @@ has perfected his voice. His poetry is not only a record of our times but landma
 
 —Hal Sirowitz, former poet laureate of Queens, New York
 
-Read Larissa Shmailo's review of _Blue Lyre_ in [North of Oxford](https://northofoxford.wordpress.com/2019/03/01/blue-lyre-by-jeffrey-cyphers-wright/)
+>In the early 1990s, Wright invented "New Romanticism," a poetic movement that is at once joyous, communal, erotic and spontaneous. _Blue Lyre_ is, in a sense, the culmination of New Romanticism.
+
+—Sparrow
+
+  Sparrow's review of _Blue Lyre_, "Slaying Dragons with Love" in [American Book Review](https://muse.jhu.edu/article/713576).
+
+Larissa Shmailo's review of _Blue Lyre_ in [North of Oxford](https://northofoxford.wordpress.com/2019/03/01/blue-lyre-by-jeffrey-cyphers-wright/)
 
 Buy *Blue Lyre* from [Dos Madres Press](https://www.dosmadres.com/shop/blue-lyre-by-jeffrey-cyphers-wright/).

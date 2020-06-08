@@ -7,6 +7,12 @@ title = "2020 Events"
 
 +++
 
+### Saturday, July 25, 5pm
+Lit Balm Reading Series presents  
+LES Legends  
+Ron Kolm, Thaddeus Rutkowski, Jeff Wright  
+Check Facebook for Zoom invite
+
 ### May 13, 12:20pm
 English Radical Texts: Poetry, Politics, & Performance,  
 Modern Poets for Modern People  
