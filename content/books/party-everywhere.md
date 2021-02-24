@@ -8,7 +8,7 @@ title = "Party Everywhere"
 +++
 
 
-{{< img src="/images/books/party.jpg" class="book"  >}}
+{{< img src="/images/books/party.jpg" class="book" >}}
 
 <p><em>Party Everywhere</em> 2014<br>Xanadu Press<br>ISBN:0-9760793-9-9</p>
 
@@ -24,7 +24,9 @@ A poet's guide to social engagement
 >>Remember, you are a can,  
 not a can not
 
-{{< img src="/images/books/charming.jpg" caption="Centerfold from Party Everywhere" >}}
+{{< img src="/images/books/charming.jpg" >}}
+
+<p>Centerfold from <em>Party Everywhere</em></p>
 
 Wright created this book-length poem, photo-collage, photo-assemblage, thanks to a summer residency at eMediaLoft in New York City.
 

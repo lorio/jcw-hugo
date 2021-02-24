@@ -1,5 +1,5 @@
 +++
-date = "2018-04-27"
+date = "2020-07-03"
 description = "Blue Lyre is a 2018 title from Dos Madres Press, A book of poetry by Jeffrey Cyphers Wright"
 meta_img = "/images/books/bluelyre.jpg"
 tags = ["poetry, books, Jeffrey Cyphers Wright"]
@@ -34,8 +34,10 @@ has perfected his voice. His poetry is not only a record of our times but landma
 
 —Sparrow
 
-  Sparrow's review of _Blue Lyre_, "Slaying Dragons with Love" in [American Book Review](https://muse.jhu.edu/article/713576).
+  Sparrow's review of _Blue Lyre_, "Slaying Dragons with Love" in [American Book Review](https://muse.jhu.edu/article/713576)
 
 Larissa Shmailo's review of _Blue Lyre_ in [North of Oxford](https://northofoxford.wordpress.com/2019/03/01/blue-lyre-by-jeffrey-cyphers-wright/)
 
 Buy *Blue Lyre* from [Dos Madres Press](https://www.dosmadres.com/shop/blue-lyre-by-jeffrey-cyphers-wright/).
+
+*Blue Lyre* on [Amazon](https://www.amazon.com/Blue-Lyre-Jeffrey-Cyphers-Wright/dp/1939929962)

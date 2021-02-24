@@ -1,4 +1,4 @@
-baseurl = "http://jeffreycypherswright.com/"
+baseurl = "https://jeffreycypherswright.com/"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
@@ -28,5 +28,6 @@ wikipedia = "Jeffrey_Cyphers_Wright"
 email = "livemagnyc@gmail.com"
 facebook = "livemag.org"
 twitter = "livemagnyc"
+instagram = "jeffwright436"
 social_banner = "images/nola.jpg"
 posts_navigation = true

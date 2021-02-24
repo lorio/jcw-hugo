@@ -1,11 +1,17 @@
 +++
-date = "2020-04-28"
+date = "2020-07-03"
 description = "Links to art and poetry by Jeffrey Cyphers Wright available on the internet"
 meta_img = "/images/image.jpg"
 tags = [""]
-title = "JCW URLs"
+title = "JCW on the Interwebs"
 
 +++
+
++ [The Good Outlaw](https://youtu.be/OhzP9q5nIRc) 2010 Event by Jeff performed by Jeff with artists and poets at AC Studios in Chelsea, NY 
+
++ [Big Bridge](https://bigbridge.org/BB19/poetry/selectedpoems/Jeffrey_Cyphers_Wright.html) has Jeff's Bush era epic "red Corvette" ÜBER CLUE.
+
++ [The Key Ceremony](https://www.youtube.com/watch?v=bjFbtCRQArg) feature performance documentary. Jeffrey Cyphers Wright—producer/director; Lili White—editor;  Featuring Jeff with downtown poets, artists, musicians, garden activists and would-be reformers. Contains excerpts of the play "Clubhouse on 13th Street." Music by City Keys, Roger Manning, and more. See link below to an informational web page about it.
 
 + [Posit Journal](https://positjournal.com/2019/09/23/jeffrey-cyphers-wright/) Poems: Laughing Matter, Temple of Jupiter, The Missing Linx, and Troubadour’s Notebook.
 

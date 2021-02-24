@@ -1,7 +1,7 @@
 +++
 date = "2020-06-06T14:09:02-04:00"
 description = "New self-portraits and alter-ego collages and drawings by poet and artist Jeffrey Cyphers Wright."
-meta_img = "/images/wolf.jpg"
+meta_img = "images/dopplegangers/wolf.jpg"
 tags = ["collage, art, Jeffrey Cyphers Wright"]
 title = "Dopplegängsters"
 

@@ -2,32 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on Jeffrey Cyphers Wright</title>
-    <link>http://jeffreycypherswright.com/books/</link>
+    <link>https://jeffreycypherswright.com/books/</link>
     <description>Recent content in Books on Jeffrey Cyphers Wright</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://jeffreycypherswright.com/books/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jeffreycypherswright.com/books/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Fake Lies</title>
-      <link>http://jeffreycypherswright.com/books/fake-lies/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://jeffreycypherswright.com/books/fake-lies/</guid>
-      <description>Fake Lies, © 2018 by Jeffrey Cyphers Wright is Fell Swoop 159.
- Fell Swoop in New Orleans just published “Fake Lies”. Those poems will end up in a collection called Dopple Gängster which is the new stuff I’m working on.
-Although the poems are stand alone, they call and echo each other. They’re about a central figure moving through the landscape, who tries to maintain an upbeat spirituality and the struggle to share that sensation.</description>
-    </item>
     
     <item>
       <title>Blue Lyre</title>
-      <link>http://jeffreycypherswright.com/books/blue-lyre/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <link>https://jeffreycypherswright.com/books/blue-lyre/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://jeffreycypherswright.com/books/blue-lyre/</guid>
+      <guid>https://jeffreycypherswright.com/books/blue-lyre/</guid>
       <description>Blue Lyre 2018
 Dos Madres Press
 New York, NY
@@ -36,11 +25,22 @@ Jeffrey Cyphers Wright is a leading voice of New Romanticism in the American Und
     </item>
     
     <item>
+      <title>Fake Lies</title>
+      <link>https://jeffreycypherswright.com/books/fake-lies/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeffreycypherswright.com/books/fake-lies/</guid>
+      <description>Fake Lies, © 2018 by Jeffrey Cyphers Wright is Fell Swoop 159.
+ Fell Swoop in New Orleans just published “Fake Lies”. Those poems will end up in a collection called Dopple Gängster which is the new stuff I’m working on.
+Although the poems are stand alone, they call and echo each other. They’re about a central figure moving through the landscape, who tries to maintain an upbeat spirituality and the struggle to share that sensation.</description>
+    </item>
+    
+    <item>
       <title>Radio Poems</title>
-      <link>http://jeffreycypherswright.com/books/radio-poems/</link>
+      <link>https://jeffreycypherswright.com/books/radio-poems/</link>
       <pubDate>Wed, 10 Jan 2018 08:40:32 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/books/radio-poems/</guid>
+      <guid>https://jeffreycypherswright.com/books/radio-poems/</guid>
       <description>Radio Poems 2017
 The Operating System
 New York, NY
@@ -50,10 +50,10 @@ New York, NY
     
     <item>
       <title>Employment of the Apes</title>
-      <link>http://jeffreycypherswright.com/books/employment-of-the-apes/</link>
+      <link>https://jeffreycypherswright.com/books/employment-of-the-apes/</link>
       <pubDate>Sun, 07 May 2017 19:20:19 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/books/employment-of-the-apes/</guid>
+      <guid>https://jeffreycypherswright.com/books/employment-of-the-apes/</guid>
       <description>This hybrid text &amp;ldquo;verse-journal&amp;rdquo; humorously and lovingly keeps track of Bohemian life in the East Village in an era of punk and political regression. With artwork by Alice Notley, Andrei Codrescu, Lisa Eshelman, Jim Moser and the author.
   Employment of the Apes 1981
 Chronic Editions
@@ -64,10 +64,10 @@ Dennis Cooper wrote in Beyond Baroque:
     
     <item>
       <title>Triple Crown</title>
-      <link>http://jeffreycypherswright.com/books/triple-crown/</link>
+      <link>https://jeffreycypherswright.com/books/triple-crown/</link>
       <pubDate>Sat, 06 May 2017 12:33:11 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/books/triple-crown/</guid>
+      <guid>https://jeffreycypherswright.com/books/triple-crown/</guid>
       <description>cover art by Renee Ricard and JCW
 Triple Crown 2013
 Three Crowns of Sonnets
@@ -80,10 +80,10 @@ From the Urban Graffiti Review:
     
     <item>
       <title>Party Everywhere</title>
-      <link>http://jeffreycypherswright.com/books/party-everywhere/</link>
+      <link>https://jeffreycypherswright.com/books/party-everywhere/</link>
       <pubDate>Sun, 10 Aug 2014 10:10:04 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/books/party-everywhere/</guid>
+      <guid>https://jeffreycypherswright.com/books/party-everywhere/</guid>
       <description>Party Everywhere 2014
 Xanadu Press
 ISBN:0-9760793-9-9
@@ -93,7 +93,8 @@ ISBN:0-9760793-9-9
 Sing here
 Remember, you are a can,
 not a can not
-    Centerfold from Party Everywhere   Wright created this book-length poem, photo-collage, photo-assemblage, thanks to a summer residency at eMediaLoft in New York City.</description>
+   Centerfold from Party Everywhere
+Wright created this book-length poem, photo-collage, photo-assemblage, thanks to a summer residency at eMediaLoft in New York City.</description>
     </item>
     
   </channel>

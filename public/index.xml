@@ -2,30 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeffrey Cyphers Wright</title>
-    <link>http://jeffreycypherswright.com/</link>
+    <link>https://jeffreycypherswright.com/</link>
     <description>Recent content on Jeffrey Cyphers Wright</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 06 Jun 2020 14:09:02 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://jeffreycypherswright.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jeffreycypherswright.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>2021 Events</title>
+      <link>https://jeffreycypherswright.com/posts/events-2021/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeffreycypherswright.com/posts/events-2021/</guid>
+      <description>Saturday, March 6, 2021, 2 - 3 p.m. A New York Public Library online event: Interactive presentation: A Downtown State of Mind celebrating the launch of LiVE MAG! #17 The CoViVid Issue. Brought to you by LiVE Mag! and the NYPL/Tomkins. Featuring Helen Oji, Andrei Condrescu, David Mills, Olena Jennings, Cindy Hochman, and hosted by Jeff Wright.
+March 2, 8pm Backroom Broadsides LIVE! JCW and Vyt Bakaitis at the Backroom Broadsides facebook page and then accessible at YouTube RNA JC channel.</description>
+    </item>
+    
+    <item>
+      <title>Pandemic Puppet Jam</title>
+      <link>https://jeffreycypherswright.com/posts/puppet-show/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeffreycypherswright.com/posts/puppet-show/</guid>
+      <description>As a deadly pandemic cripples the world, one man steps up to create a fantastical world of imagination — to keep his grandchild amused for 30 minutes, every day, for four months.
+ — Seth Wright
+Preview producer</description>
+    </item>
+    
+    <item>
+      <title>Blue Lyre</title>
+      <link>https://jeffreycypherswright.com/books/blue-lyre/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeffreycypherswright.com/books/blue-lyre/</guid>
+      <description>Blue Lyre 2018
+Dos Madres Press
+New York, NY
+Jeffrey Cyphers Wright is a leading voice of New Romanticism in the American Underground. His 15th book is a collection of stand-alone poems that combine to form a powerful portrait of a citizen, lover, family member, and seasoned artist. Blue Lyre will pull your leg and your heartstrings.
+ &amp;hellip;comments about relationships, bar-hopping, and the creative process, are all tied, sometimes transparently, sometimes obscurely, to an ecological perspective.</description>
+    </item>
+    
+    <item>
+      <title>JCW on the Interwebs</title>
+      <link>https://jeffreycypherswright.com/posts/jcw-on-the-interwebs/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeffreycypherswright.com/posts/jcw-on-the-interwebs/</guid>
+      <description>The Good Outlaw 2010 Event by Jeff performed by Jeff with artists and poets at AC Studios in Chelsea, NY
+ Big Bridge has Jeff&amp;rsquo;s Bush era epic &amp;ldquo;red Corvette&amp;rdquo; ÜBER CLUE.
+ The Key Ceremony feature performance documentary. Jeffrey Cyphers Wright—producer/director; Lili White—editor; Featuring Jeff with downtown poets, artists, musicians, garden activists and would-be reformers. Contains excerpts of the play &amp;ldquo;Clubhouse on 13th Street.&amp;rdquo; Music by City Keys, Roger Manning, and more.</description>
+    </item>
+    
+    <item>
       <title>About the Art</title>
-      <link>http://jeffreycypherswright.com/art/about-the-art/</link>
+      <link>https://jeffreycypherswright.com/art/about-the-art/</link>
       <pubDate>Sat, 06 Jun 2020 14:09:02 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/art/about-the-art/</guid>
+      <guid>https://jeffreycypherswright.com/art/about-the-art/</guid>
       <description>Wright first created visual art in 1975. After moving to New York in 1976, he began working in collage regularly. He participated in Mail Art exchanges with Ray Johnson and John Evans among others. Wright started designing poetry reading announcements in 1978 for a series he began with Jim Brodey on St. Mark’s Place. He continues to create art for publications including 17 LiVE MAG! covers. For the past decade Wright has incorporated painting and drawing into his collages.</description>
     </item>
     
     <item>
       <title>Dopplegängsters</title>
-      <link>http://jeffreycypherswright.com/art/dopplegangsters/</link>
+      <link>https://jeffreycypherswright.com/art/dopplegangsters/</link>
       <pubDate>Sat, 06 Jun 2020 14:09:02 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/art/dopplegangsters/</guid>
+      <guid>https://jeffreycypherswright.com/art/dopplegangsters/</guid>
       <description>A Lover’s Dream 2020
 mixed media 6 x 4&amp;frac12; in.
    Earth Justice 2019
@@ -41,10 +86,10 @@ mixed media 7 x 5 in.
     
     <item>
       <title>2020 Events</title>
-      <link>http://jeffreycypherswright.com/posts/events-2020/</link>
+      <link>https://jeffreycypherswright.com/posts/events-2020/</link>
       <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://jeffreycypherswright.com/posts/events-2020/</guid>
+      <guid>https://jeffreycypherswright.com/posts/events-2020/</guid>
       <description>Saturday, July 25, 5pm Lit Balm Reading Series presents
 LES Legends
 Ron Kolm, Thaddeus Rutkowski, Jeff Wright
@@ -58,34 +103,21 @@ February 13, 6:30 A reception and triple book launch for a new expanded Party Ev
     </item>
     
     <item>
-      <title>JCW URLs</title>
-      <link>http://jeffreycypherswright.com/posts/jcw-on-the-interwebs/</link>
-      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://jeffreycypherswright.com/posts/jcw-on-the-interwebs/</guid>
-      <description>Posit Journal Poems: Laughing Matter, Temple of Jupiter, The Missing Linx, and Troubadour’s Notebook.
- Sensitive Skin Beer Virus Reading #5 Gerald Nicosia Emily Carter Jeff Wright Bob Holman. April 23, 2020 YouTube reading. Jeff reads from four of his books and new poems at 21:05.
- Sensitive Skin &amp;ldquo;How to Live With Yourself&amp;rdquo;
- AM|FM Magazine November 2018 Spotlight: John Wisniewki interviews JCW
- Later Than You Think Jeff reading at Lichtundfire Gallery, September 2018</description>
-    </item>
-    
-    <item>
       <title>Brevitas 15</title>
-      <link>http://jeffreycypherswright.com/art/brevitas15/</link>
+      <link>https://jeffreycypherswright.com/art/brevitas15/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://jeffreycypherswright.com/art/brevitas15/</guid>
+      <guid>https://jeffreycypherswright.com/art/brevitas15/</guid>
       <description>Brevitas 15, © 2018 cover by Jeffrey Cyphers Wright.
 Jeff was invited by the group Brevitas to design the cover for their 15th journal of poetry in short forms.</description>
     </item>
     
     <item>
       <title>Fake Lies</title>
-      <link>http://jeffreycypherswright.com/books/fake-lies/</link>
+      <link>https://jeffreycypherswright.com/books/fake-lies/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://jeffreycypherswright.com/books/fake-lies/</guid>
+      <guid>https://jeffreycypherswright.com/books/fake-lies/</guid>
       <description>Fake Lies, © 2018 by Jeffrey Cyphers Wright is Fell Swoop 159.
  Fell Swoop in New Orleans just published “Fake Lies”. Those poems will end up in a collection called Dopple Gängster which is the new stuff I’m working on.
 Although the poems are stand alone, they call and echo each other. They’re about a central figure moving through the landscape, who tries to maintain an upbeat spirituality and the struggle to share that sensation.</description>
@@ -93,10 +125,10 @@ Although the poems are stand alone, they call and echo each other. They’re abo
     
     <item>
       <title>Later Than You Think</title>
-      <link>http://jeffreycypherswright.com/posts/later-than-you-think/</link>
+      <link>https://jeffreycypherswright.com/posts/later-than-you-think/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://jeffreycypherswright.com/posts/later-than-you-think/</guid>
+      <guid>https://jeffreycypherswright.com/posts/later-than-you-think/</guid>
       <description>released September 15, 2018
 JCW &amp;ndash; Guitar, harmonica, vocals, sound effects
 Lesley James Stephenson &amp;ndash; Fiddle, guitar, vocals
@@ -109,33 +141,20 @@ Support artists producers of indie music and spoken word. Buy the Digital album 
     </item>
     
     <item>
-      <title>Blue Lyre</title>
-      <link>http://jeffreycypherswright.com/books/blue-lyre/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://jeffreycypherswright.com/books/blue-lyre/</guid>
-      <description>Blue Lyre 2018
-Dos Madres Press
-New York, NY
-Jeffrey Cyphers Wright is a leading voice of New Romanticism in the American Underground. His 15th book is a collection of stand-alone poems that combine to form a powerful portrait of a citizen, lover, family member, and seasoned artist. Blue Lyre will pull your leg and your heartstrings.
- &amp;hellip;comments about relationships, bar-hopping, and the creative process, are all tied, sometimes transparently, sometimes obscurely, to an ecological perspective.</description>
-    </item>
-    
-    <item>
       <title>NOLA Poetry Festival 18</title>
-      <link>http://jeffreycypherswright.com/posts/nola-festival-18/</link>
+      <link>https://jeffreycypherswright.com/posts/nola-festival-18/</link>
       <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://jeffreycypherswright.com/posts/nola-festival-18/</guid>
+      <guid>https://jeffreycypherswright.com/posts/nola-festival-18/</guid>
       <description>JCW 2008 First cover of LiVE MAG! announcing the pre-festival reading at the landmark NOLA Tree of Life.       View from LiVE MAG!s table in the Small Press Book Fair at this year&amp;#39;s festival.       Panel: Jenna Spagnolo, John Goslee, Elle Aviv Newton, Jeff. Photo by Alison Ross   The Community and Collaboration panel Sunday 4&amp;frasl;22 comrised Goslee, Spagnolo and Newton from Poets Reading the News, and LiVE MAG&amp;rsquo;s JCW.</description>
     </item>
     
     <item>
       <title>Radio Poems</title>
-      <link>http://jeffreycypherswright.com/books/radio-poems/</link>
+      <link>https://jeffreycypherswright.com/books/radio-poems/</link>
       <pubDate>Wed, 10 Jan 2018 08:40:32 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/books/radio-poems/</guid>
+      <guid>https://jeffreycypherswright.com/books/radio-poems/</guid>
       <description>Radio Poems 2017
 The Operating System
 New York, NY
@@ -145,10 +164,10 @@ New York, NY
     
     <item>
       <title>Creatures II</title>
-      <link>http://jeffreycypherswright.com/art/creatures-ii/</link>
+      <link>https://jeffreycypherswright.com/art/creatures-ii/</link>
       <pubDate>Sun, 01 Oct 2017 14:09:02 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/art/creatures-ii/</guid>
+      <guid>https://jeffreycypherswright.com/art/creatures-ii/</guid>
       <description>Gryphon 2016
 mixed media 6 x 8 in.
    Boon 2016
@@ -159,10 +178,10 @@ mixed media 12 x 9 in.</description>
     
     <item>
       <title>Asbury Park Haiku</title>
-      <link>http://jeffreycypherswright.com/poems/asbury-park-haiku/</link>
+      <link>https://jeffreycypherswright.com/poems/asbury-park-haiku/</link>
       <pubDate>Sun, 17 Sep 2017 13:00:43 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/poems/asbury-park-haiku/</guid>
+      <guid>https://jeffreycypherswright.com/poems/asbury-park-haiku/</guid>
       <description>Cinnabar dragonflies
 do a duet … mirrored below
 in the lake’s placid face.
@@ -184,30 +203,30 @@ I’ll submit to your green pulse.</description>
     
     <item>
       <title>Triller</title>
-      <link>http://jeffreycypherswright.com/art/triller/</link>
+      <link>https://jeffreycypherswright.com/art/triller/</link>
       <pubDate>Tue, 09 May 2017 14:15:38 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/art/triller/</guid>
+      <guid>https://jeffreycypherswright.com/art/triller/</guid>
       <description>Triller 2016
 pencil on paper 5 x 8 in.</description>
     </item>
     
     <item>
       <title>Triller</title>
-      <link>http://jeffreycypherswright.com/posts/triller/</link>
+      <link>https://jeffreycypherswright.com/posts/triller/</link>
       <pubDate>Tue, 09 May 2017 14:15:38 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/posts/triller/</guid>
+      <guid>https://jeffreycypherswright.com/posts/triller/</guid>
       <description>Triller 2016
 marker on handmade paper 8 x 8 in.</description>
     </item>
     
     <item>
       <title>Employment of the Apes</title>
-      <link>http://jeffreycypherswright.com/books/employment-of-the-apes/</link>
+      <link>https://jeffreycypherswright.com/books/employment-of-the-apes/</link>
       <pubDate>Sun, 07 May 2017 19:20:19 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/books/employment-of-the-apes/</guid>
+      <guid>https://jeffreycypherswright.com/books/employment-of-the-apes/</guid>
       <description>This hybrid text &amp;ldquo;verse-journal&amp;rdquo; humorously and lovingly keeps track of Bohemian life in the East Village in an era of punk and political regression. With artwork by Alice Notley, Andrei Codrescu, Lisa Eshelman, Jim Moser and the author.
   Employment of the Apes 1981
 Chronic Editions
@@ -218,10 +237,10 @@ Dennis Cooper wrote in Beyond Baroque:
     
     <item>
       <title>Creatures</title>
-      <link>http://jeffreycypherswright.com/art/creatures/</link>
+      <link>https://jeffreycypherswright.com/art/creatures/</link>
       <pubDate>Sat, 06 May 2017 14:18:10 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/art/creatures/</guid>
+      <guid>https://jeffreycypherswright.com/art/creatures/</guid>
       <description>Raoul 2013
 mixed media 8 x 8 in.
   Lucky 2013
@@ -235,10 +254,10 @@ Wright taught science in an Upper Manhattan public school. His lessons were both
     
     <item>
       <title>Triple Crown</title>
-      <link>http://jeffreycypherswright.com/books/triple-crown/</link>
+      <link>https://jeffreycypherswright.com/books/triple-crown/</link>
       <pubDate>Sat, 06 May 2017 12:33:11 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/books/triple-crown/</guid>
+      <guid>https://jeffreycypherswright.com/books/triple-crown/</guid>
       <description>cover art by Renee Ricard and JCW
 Triple Crown 2013
 Three Crowns of Sonnets
@@ -251,10 +270,10 @@ From the Urban Graffiti Review:
     
     <item>
       <title>Build a Wall</title>
-      <link>http://jeffreycypherswright.com/poems/build-a-wall/</link>
+      <link>https://jeffreycypherswright.com/poems/build-a-wall/</link>
       <pubDate>Sat, 06 May 2017 10:57:43 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/poems/build-a-wall/</guid>
+      <guid>https://jeffreycypherswright.com/poems/build-a-wall/</guid>
       <description>Let&amp;rsquo;s build a wall using [&amp;hellip;]
 Jeff read the poem on the last day of the 2nd New Orleans Poetry Festival. The final open reading was held outdoors on a sunny afternoon at the famous Maple Leaf Bar.
 Poem text and collage by JCW can be found on Poets Reading the News</description>
@@ -262,10 +281,10 @@ Poem text and collage by JCW can be found on Poets Reading the News</description
     
     <item>
       <title>Origin of the Specious and Blue</title>
-      <link>http://jeffreycypherswright.com/poems/blue-and-origin-of-the-specious/</link>
+      <link>https://jeffreycypherswright.com/poems/blue-and-origin-of-the-specious/</link>
       <pubDate>Sat, 06 May 2017 10:57:43 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/poems/blue-and-origin-of-the-specious/</guid>
+      <guid>https://jeffreycypherswright.com/poems/blue-and-origin-of-the-specious/</guid>
       <description>Jeff reading &amp;ldquo;Origin of the Specious&amp;rdquo; and &amp;ldquo;Blue&amp;rdquo; at KGB 2016.
 Blue, I want you blue [&amp;hellip;]
 Poem text and collage by JCW can be found on Poets Reading the News</description>
@@ -273,48 +292,48 @@ Poem text and collage by JCW can be found on Poets Reading the News</description
     
     <item>
       <title>about</title>
-      <link>http://jeffreycypherswright.com/about/</link>
+      <link>https://jeffreycypherswright.com/about/</link>
       <pubDate>Fri, 05 May 2017 14:45:13 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/about/</guid>
+      <guid>https://jeffreycypherswright.com/about/</guid>
       <description>Photo by Lori Ortiz
 Jeffrey Cyphers Wright is an artist, critic, eco-activist, impresario and publisher, but is best known as a poet associated with New Romanticism and the New York School. He received his MFA in Poetry from Brooklyn College where he studied with Allen Ginsberg and also taught. He served on the Poetry Project Board of Directors at St. Mark’s Church and also taught there. From 1987 to 2000 he ran Cover Magazine, the Underground National.</description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>http://jeffreycypherswright.com/home/</link>
+      <link>https://jeffreycypherswright.com/home/</link>
       <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://jeffreycypherswright.com/home/</guid>
+      <guid>https://jeffreycypherswright.com/home/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New Orleans Poetry Festival</title>
-      <link>http://jeffreycypherswright.com/posts/new-orleans-poetry-festival/</link>
+      <link>https://jeffreycypherswright.com/posts/new-orleans-poetry-festival/</link>
       <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://jeffreycypherswright.com/posts/new-orleans-poetry-festival/</guid>
+      <guid>https://jeffreycypherswright.com/posts/new-orleans-poetry-festival/</guid>
       <description>    Jeff reading at Cafe Istanbul. Photo by Alison Ross   </description>
     </item>
     
     <item>
       <title>Haiku</title>
-      <link>http://jeffreycypherswright.com/poems/haiku/</link>
+      <link>https://jeffreycypherswright.com/poems/haiku/</link>
       <pubDate>Tue, 09 Aug 2016 14:47:19 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/poems/haiku/</guid>
+      <guid>https://jeffreycypherswright.com/poems/haiku/</guid>
       <description>Roots stick out from red clay. I forget about my dream. After rain, clouds tiptoe away. Number 87 slides off the track, back wheels aflame. Happy 4th. Hercules lying around &amp;mdash;
 stars spread out on night&#39;s velvet pool of spilt ink. Taking a tick off Alex&#39;s neck, dragon smoke floats across tree tops before rain. The rain insists on its own sentences. Its tattered hum drums the bird-filled trees. Fairy wand beside the path.</description>
     </item>
     
     <item>
       <title>Party Everywhere</title>
-      <link>http://jeffreycypherswright.com/books/party-everywhere/</link>
+      <link>https://jeffreycypherswright.com/books/party-everywhere/</link>
       <pubDate>Sun, 10 Aug 2014 10:10:04 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/books/party-everywhere/</guid>
+      <guid>https://jeffreycypherswright.com/books/party-everywhere/</guid>
       <description>Party Everywhere 2014
 Xanadu Press
 ISBN:0-9760793-9-9
@@ -324,15 +343,16 @@ ISBN:0-9760793-9-9
 Sing here
 Remember, you are a can,
 not a can not
-    Centerfold from Party Everywhere   Wright created this book-length poem, photo-collage, photo-assemblage, thanks to a summer residency at eMediaLoft in New York City.</description>
+   Centerfold from Party Everywhere
+Wright created this book-length poem, photo-collage, photo-assemblage, thanks to a summer residency at eMediaLoft in New York City.</description>
     </item>
     
     <item>
       <title>Topol Management Company</title>
-      <link>http://jeffreycypherswright.com/poems/topol-management-company/</link>
+      <link>https://jeffreycypherswright.com/poems/topol-management-company/</link>
       <pubDate>Fri, 09 Aug 2013 14:46:48 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/poems/topol-management-company/</guid>
+      <guid>https://jeffreycypherswright.com/poems/topol-management-company/</guid>
       <description>Often in the lonesome section
 I barbeque the mirror. Your laughter
 an elixir. Where sometimes means
@@ -349,19 +369,19 @@ Waiting for the number one train.</description>
     
     <item>
       <title>Mean Poems</title>
-      <link>http://jeffreycypherswright.com/poems/mean-poems/</link>
+      <link>https://jeffreycypherswright.com/poems/mean-poems/</link>
       <pubDate>Tue, 01 Jan 2013 14:45:06 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/poems/mean-poems/</guid>
+      <guid>https://jeffreycypherswright.com/poems/mean-poems/</guid>
       <description> Your browser does not support HTML5 video. Please upgrade your browser.  Jeff at Dixon Pl 1-1-13  </description>
     </item>
     
     <item>
       <title>Tinkerbelles</title>
-      <link>http://jeffreycypherswright.com/art/tinkerbelles/</link>
+      <link>https://jeffreycypherswright.com/art/tinkerbelles/</link>
       <pubDate>Wed, 09 May 2012 11:49:10 -0400</pubDate>
       
-      <guid>http://jeffreycypherswright.com/art/tinkerbelles/</guid>
+      <guid>https://jeffreycypherswright.com/art/tinkerbelles/</guid>
       <description>Pinky 2012
 mixed media 8 x 8 in.
    Purple Tink 2012
@@ -374,10 +394,10 @@ Tinkerbelle came into the picture around 2010 while Wright was teaching in the p
     
     <item>
       <title>License</title>
-      <link>http://jeffreycypherswright.com/license/</link>
+      <link>https://jeffreycypherswright.com/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jeffreycypherswright.com/license/</guid>
+      <guid>https://jeffreycypherswright.com/license/</guid>
       <description>For permission to reprint content on the pages of this site, protected by copyright, please contact:
 Jeffrey Cyphers Wright
 PO Box 1215
