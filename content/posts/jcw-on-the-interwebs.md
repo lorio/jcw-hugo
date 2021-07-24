@@ -1,11 +1,20 @@
 +++
-date = "2020-07-03"
-description = "Links to art and poetry by Jeffrey Cyphers Wright available on the internet"
+date = "2021-07-20"
+description = "Links to art, poetry, and events by Jeffrey Cyphers Wright available on the internet"
 meta_img = "/images/image.jpg"
-tags = [""]
-title = "JCW on the Interwebs"
+title = "JCW on the WWW 2001-"
 
 +++
+
++ Jeff's poem "Gold Filter" on [Global Poemic](https://globalpoemic.wordpress.com/2021/07/18/gold-filter/).
+
++ "Bustout Nation" a [recording](https://www.facebook.com/LaMaMaNYC/videos/949190689255882) of the May 24, 2021 La Mama and Poetry Electric live event hosted by Jeff and William Electric Black and featuring Jeff's puppet show, poetry by Penny Arcade, Jose Padua, and others, with art by Carl Hazlewood.
+
++ "Tilt," "Burning Rings," "Echo's Chamber," "Here for You" on [StatoRec](https://statorec.com/four-poems-by-jeffrey-cyphers-wright/)
+
++ March 2021 events [A Downtown State of Mind: Part I](https://www.nypl.org/events/programs/2021/03/06/interactive-presentation-downtown-state-mind), and [Part II](https://www.nypl.org/events/programs/2021/03/20/interactive-presentation-downtown-state-mind) in collaboration with the New York Public Library: JCW hosts associated poets and artists in a celebration of LiVE Mag! #17.
+
++ [Backroom Broadsides](https://youtu.be/60UtCvfXCwY) 3/16/21 reading: Jim Ruggia hosts poets JCW  and Vyt Bakaitis.
 
 + [The Good Outlaw](https://youtu.be/OhzP9q5nIRc) 2010 Event by Jeff performed by Jeff with artists and poets at AC Studios in Chelsea, NY 
 
@@ -40,6 +49,8 @@ title = "JCW on the Interwebs"
 + [Brooklyn Rail](http://www.brooklynrail.org/contributor/jeffrey-cyphers-wright) Jeff's poetry column and other contributions
 
 See links to social media and Wikipedia below.
+
+
 
 
 

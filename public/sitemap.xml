@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jeffreycypherswright.com/posts/hard-press/</loc>
+    <lastmod>2021-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jeffreycypherswright.com/posts/events-2021/</loc>
-    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeffreycypherswright.com/posts/jcw-on-the-interwebs/</loc>
+    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -14,11 +24,6 @@
   
   <url>
     <loc>https://jeffreycypherswright.com/books/blue-lyre/</loc>
-    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeffreycypherswright.com/posts/jcw-on-the-interwebs/</loc>
     <lastmod>2020-07-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,12 +153,6 @@
   </url>
   
   <url>
-    <loc>https://jeffreycypherswright.com/tags/</loc>
-    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jeffreycypherswright.com/art/</loc>
     <lastmod>2020-06-06T14:09:02-04:00</lastmod>
     <priority>0</priority>
@@ -184,6 +183,12 @@
   </url>
   
   <url>
+    <loc>https://jeffreycypherswright.com/tags/books-poetry-mail-art-nyc-jeffrey-cyphers-wright/</loc>
+    <lastmod>2021-07-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jeffreycypherswright.com/categories/</loc>
     <priority>0</priority>
   </url>
@@ -208,7 +213,7 @@
   
   <url>
     <loc>https://jeffreycypherswright.com/</loc>
-    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -284,7 +289,7 @@
   
   <url>
     <loc>https://jeffreycypherswright.com/posts/</loc>
-    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -302,13 +307,13 @@
   
   <url>
     <loc>https://jeffreycypherswright.com/tags/readings-poetry-nyc-jeffrey-cyphers-wright/</loc>
-    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jeffreycypherswright.com/tags/</loc>
-    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-06T14:09:02-04:00</lastmod>
     <priority>0</priority>
   </url>
   
