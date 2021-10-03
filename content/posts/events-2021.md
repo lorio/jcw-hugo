@@ -1,5 +1,5 @@
 +++
-date = "2021-07-24"
+date = "2021-10-03"
 description = "List of upcoming events featuring or organized by Jeffrey Cyphers Wright" 
 meta_img = "/images/boy.gif"
 tags = ["readings, poetry, nyc, Jeffrey Cyphers Wright"]
@@ -7,10 +7,30 @@ title = "2021 Events"
 
 +++
 
-July 31, Saturday 5pm  
+November 5  
+Jeff, Steve Lutrell, Yuko, Ron Kom reading at KGB
+
+October 30th  
+Closing party for "[Indy Indeed](https://www.nypl.org/events/exhibitions/community-showcases/indy-indeed-half-century-downtowns-independent-presses): A Half Century of Downtowns's Independent Presses" 
+at Tompkins branch NYPL. See below.
+
+October 3, 5pm  
+"Word Play" Poetry and music hosted by Domenic Chanese at Brooklyn Moon Cafe, 745 Fulton St. Featuring Jeff, Anthony Haden Guest, Ilka Scobie, and others.
+
+September 25th - October 30th  
+"[Indy Indeed](https://www.nypl.org/events/exhibitions/community-showcases/indy-indeed-half-century-downtowns-independent-presses): A Half Century of Downtowns's Independent Presses"  
+  An exhibit curated by Ron Kolm, Greg Masters, Ilka Scobie, and Jeffrey Cyphers Wright at Tompkins branch NYPL.
+
+September 25th, 6-8pm  
+Jeff reading in "Harvest Arts," hosted by Philip Galinsky at Campos Community Garden, 644 E 12 St. 
+
+September, 4 Tuesdays at 8pm  
+"[The Fun Doctrine](https://www.howlarts.org/event/jeffrey-cyphers-wright-friends-2021-09-28/)" at Howl Happening Space. JCW curates and hosts four evenings of fun in the Howl &Friends series. Includes guests, Andrei Codrescu, Penny Arcade, Kathe Burkhart, Helixx Armageddon, Roger Manning, and more.
+
+July 31st, Saturday 5pm  
 Lit Balm International Surrealist Poetry Extravaganza Featuring readings, panels, and special shows including a new JCW puppet show on [zoom](https://us04web.zoom.us/j/461603228?fbclid=IwAR3TOyrf1WNEGMngug8zq55jBcyXVccrrJF6wsiTOYt0gljigV8xNTWkDv8#success).
 
-August 11, Wednesday 6-8pm  
+August 11th, Wednesday 6-8pm  
 "Roses are Read" featuring Jan Castro, James Feast, Gena Gruz, Steve Luttrell, John Trause. An evening of Spoken Word and Poetry in conjunction with "A Daze of Rose," art curated by Robert Curcio at [Mizuma & Kips](https://www.mizumakips.com/upcoming) gallery, 324 Grand St. NYC.
 
 June 19th, 6-8pm  

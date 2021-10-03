@@ -1,10 +1,15 @@
 +++
-date = "2021-07-20"
+date = "2021-09-02"
 description = "Links to art, poetry, and events by Jeffrey Cyphers Wright available on the internet"
 meta_img = "/images/image.jpg"
 title = "JCW on the WWW 2001-"
 
 +++
+
++ [The Fun Doctrine](https://www.howlarts.org/howl-tv/)  
+Four evenings in September, 2021 are the culmination of Jeff's Residency at Howl Arts, NYC.
+
++ Film by Jeff, "The Paris Accord" in [Lit Balm International Surrealist Poetry Extravaganza](https://www.youtube.com/watch?v=H0bmqU8-6jc) at 50:00. Zoom reading at 5pm July 31st, 2021.
 
 + Jeff's poem "Gold Filter" on [Global Poemic](https://globalpoemic.wordpress.com/2021/07/18/gold-filter/).
 
