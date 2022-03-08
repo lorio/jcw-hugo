@@ -1,18 +1,23 @@
 +++
-date = "2021-10-03"
-description = "List of upcoming events featuring or organized by Jeffrey Cyphers Wright" 
+date = "2021-12-09"
+description = "List of upcoming events featuring or organized by Jeffrey Cyphers Wright"
 meta_img = "/images/boy.gif"
 tags = ["readings, poetry, nyc, Jeffrey Cyphers Wright"]
 title = "2021 Events"
 
 +++
 
-November 5  
-Jeff, Steve Lutrell, Yuko, Ron Kom reading at KGB
+December 13, 7:30  
+A LiVE Mag! Holiday Party at La Mama. Art, poetry, and a new film by JCW. [The Nice n Naughty List](https://www.lamama.org/shows/poetry-electric-the-naughty-n-nice-list-2021) Tamara Gonzales, David Henderson, J R Castañer, Sam Truitt, and more. MC JCW!
 
-October 30th  
-Closing party for "[Indy Indeed](https://www.nypl.org/events/exhibitions/community-showcases/indy-indeed-half-century-downtowns-independent-presses): A Half Century of Downtowns's Independent Presses" 
-at Tompkins branch NYPL. See below.
+November 10 6:30  
+Jeff reading with Bob Holman, Eileen Myles, Ilka Scobie, Stefan Bondell, Rimanelli, Wachter, Butler, Erikson at Tibet House, 22 W.15th St. NYC.
+
+November 6, 2:30pm  
+NYPL Tomkins branch is celebrating <em>LiVE Mag!</em> 17 and <em>Cafe Review'</em>s Fall issue. Performers include Lutrell, Dimanshtein, Maggie Dubris, Bushyeager, Bakaitis, and Jeff.
+
+November 5, 7pm  
+[Wing Song](https://kgbbar.com/events) Jeff, Steve Lutrell, C.O. Moed, Yuko Otomo, Ron Kolm reading at KGB Red Room.
 
 October 3, 5pm  
 "Word Play" Poetry and music hosted by Domenic Chanese at Brooklyn Moon Cafe, 745 Fulton St. Featuring Jeff, Anthony Haden Guest, Ilka Scobie, and others.
@@ -22,7 +27,7 @@ September 25th - October 30th
   An exhibit curated by Ron Kolm, Greg Masters, Ilka Scobie, and Jeffrey Cyphers Wright at Tompkins branch NYPL.
 
 September 25th, 6-8pm  
-Jeff reading in "Harvest Arts," hosted by Philip Galinsky at Campos Community Garden, 644 E 12 St. 
+Jeff reading in "Harvest Arts," at Campos Community Garden, 644 E 12 St. 
 
 September, 4 Tuesdays at 8pm  
 "[The Fun Doctrine](https://www.howlarts.org/event/jeffrey-cyphers-wright-friends-2021-09-28/)" at Howl Happening Space. JCW curates and hosts four evenings of fun in the Howl &Friends series. Includes guests, Andrei Codrescu, Penny Arcade, Kathe Burkhart, Helixx Armageddon, Roger Manning, and more.

@@ -2,7 +2,7 @@
 date = "2017-05-06T10:57:43-04:00"
 description = "Video performance of Jeff Wright's poem 'Build a Wall' at the Maple Leaf Bar in NOLA Poetry Festival"
 meta_img = "/images/image.jpg"
-tags = ["poetry, Trump, immigration, Mexico"]
+tags = ["poetry, immigration, Mexico"]
 title = "Build a Wall"
 
 +++
