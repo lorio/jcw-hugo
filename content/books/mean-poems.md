@@ -32,7 +32,7 @@ Here's one that's fit to print:
 
 From the introduction:  
 
->These "Mean Poems" are a direct response to the bad behavior of board members in an East Village community garden ... Wright takes a cue from the scathing pages of Catullus ...Revenge without calories ... Courage!
+>_The Mean Poems_ are a direct response to the bad behavior of board members in an East Village community garden ... Wright takes a cue from the scathing pages of Catullus ...Revenge without calories ... Courage!
 
 For some background information, [see this](https://communitygardensbrand.com).
 
